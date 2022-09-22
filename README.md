@@ -1,11 +1,8 @@
 - 👋 Hi, My name is Luis @flores-luis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning attending Coding Dojo in San Jose CA, finishing up my last stack in JAVA development, ETA of completeion is mid August 2022...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
-
-- ...
+- 
+- I am pursuing a long term journey in software development, and transitioning from data analytics
+- 
+- Currently working at Tesla (Fremont Factory)
 
 <!---
 flores-luis/flores-luis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
